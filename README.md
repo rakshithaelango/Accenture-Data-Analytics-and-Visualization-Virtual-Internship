@@ -33,14 +33,24 @@
 
 # Task 2
 
-## diving into the data
-let’s have a look at what data you have to work with. The client has sent through:
- * 7 data sets - each data set contains different columns and values
- * A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
-There is a lot of information here and it’s easy to get lost in the data. So, to make sure you are using the right data to answer the business questions you’ll follow these steps:
-## Requirements gathering
- * Data cleaning
- * Data modelling
+* Exploring the available data, the client has shared the following:
+  * 7 data sets - each data set contains different columns and values
+  * A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
+    
+* Requirements gathering For:
+      * Reactions
+      * Reaction Type
+      * Content
+  
+* Data cleaning: 
+      * Eliminate rows containing missing values.
+      * Adjust the data type of specific values in designated columns.
+      * Exclude columns that are irrelevant to the current task.
+  
+* Data modelling:
+      * Generate a consolidated dataset by merging three tables. The ultimate outcome will be a unified spreadsheet.
+
+# Task 3
 
 
 
