@@ -5,17 +5,17 @@
 
 # Task 1
 
-* Project Understanding - Social Buzz
+* PROJECT UNDERSTANDING - Social Buzz
    * One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
    * She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
    * Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
    * Ahead of the call, Mae has shared the project brief so you can get up to speed on what Social Buzz need help with.
   
-* Project Recap:
+* PROJECT RECAP:
    * Highlight the key focus areas of the 3-month POC with Accenture.
    * Mention the critical tasks: Big data practice audit, IPO recommendations, and identifying top content categories.
 
-* Problem Statement:
+* PROBLEM STATEMENT:
    * Emphasize the scale of the challenge: Over 100,000 posts per day, 36,500,000 pieces of content per year.
 
 ## Accenture Project Team:
