@@ -18,6 +18,18 @@
 
 * PROBLEM STATEMENT:
    * Emphasize the scale of the challenge: Over 100,000 posts per day, 36,500,000 pieces of content per year.
+ 
+* MEETING ACCENTURE TEAM Involves:
+  * Managing Director - Mae Mulligan
+  * Industry Lead - Susan Lead
+  * Lead IPO Strategist - Florian Henry
+  * Chief Technology Architect - Andrew Fleming
+  * Senior Industry Analyst - Tim Pike
+  * Investment Analyst - Steven Shaw
+  * Senior Principal - Marcus Rompton
+  * Industry Associate - Julia Hendrie
+  * Data Analyst - Rakshitha
+  * Data Scientist - Michelle Grove
 
 # Task 2
 
