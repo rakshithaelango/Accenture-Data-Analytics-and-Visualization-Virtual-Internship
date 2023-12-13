@@ -72,6 +72,8 @@
    * Final Summary
 
 # Task 4 - Present to the Client
+
+* Convey the outcomes of your analysis effectively to the client by delivering a comprehensive presentation using PowerPoin
   
 
 
