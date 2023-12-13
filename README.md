@@ -19,7 +19,7 @@
 * PROBLEM STATEMENT:
    * Emphasize the scale of the challenge: Over 100,000 posts per day, 36,500,000 pieces of content per year.
  
-* MEETING ACCENTURE TEAM Involves:
+* ACCENTURE PROJECT TEAM INVOLVES:
   * Managing Director - Mae Mulligan
   * Industry Lead - Susan Lead
   * Lead IPO Strategist - Florian Henry
