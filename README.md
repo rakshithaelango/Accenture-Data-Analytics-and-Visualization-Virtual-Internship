@@ -1,4 +1,4 @@
-# Accenture-Data-Analytics-and-Visualization-Virtual-Internship
+![image](https://github.com/rakshithaelango/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/assets/116090323/956373d7-2d2a-4c81-b24f-f2b8eecc8651)# Accenture-Data-Analytics-and-Visualization-Virtual-Internship
 
  * CERTIFICATE:
 [Accenture-Data-Analytics-and-Visualization-Virtual-Internship](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_zTRKYQuCprSMxiDjC_1702473090916_completion_certificate.pdf)
@@ -33,28 +33,50 @@
 
 # Task 2 - Data Cleaning & Modeling
 
-* Exploring the available data, the client has shared the following:
+* EXPLORING THE DATA SET, THE CLIENT HAS SHARED THE FOLLOWING:
   
   * 7 data sets - each data set contains different columns and values
   * A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
     
-* Requirements gathering For:
+* REQUIREMENTS GATHERING FOR:
   
   * Reactions
   * Reaction Type
   * Content
   
-* Data cleaning:
+* DATA CLEANING:
   
   * Eliminate rows containing missing values.
   * Adjust the data type of specific values in designated columns.
   * Exclude columns that are irrelevant to the current task.
   
-* Data modelling:
+* DATA MODELLING:
   
   * Generate a consolidated dataset by merging three tables. The ultimate outcome will be a unified spreadsheet.
 
 # Task 3 -  Data Visualization & Storytelling
+
+* DESIGN THE POWERPOINT PRESENTATION IN ACCORDANCE WITH THE PROVIDED TEMPLATE
+
+* THE PRESENTATION SLIDE ENCOMPASSES:
+
+   * Agenda
+   * Project Recap
+   * Problem
+   * Process
+   * Insights
+   * Top 5 Categories by aggregate "Popularity" score
+     * Bar Chart
+   * Popularity precentage share from top 5 categories
+     * Pie Chart
+   * Final Summary
+
+# Task 4 - Present to the Client
+  
+
+
+
+
 
 
 
