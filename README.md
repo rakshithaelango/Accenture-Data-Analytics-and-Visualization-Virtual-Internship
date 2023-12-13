@@ -21,6 +21,7 @@
 
 ## Accenture Project Team:
 
+![1702476837934](https://github.com/rakshithaelango/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/assets/116090323/9f929c5d-205b-45e2-8b49-81021fec3083)
 
 
 # Task 2
