@@ -40,19 +40,19 @@
     
 * Requirements gathering For:
   
-      * Reactions
-      * Reaction Type
-      * Content
+  * Reactions
+  * Reaction Type
+  * Content
   
 * Data cleaning:
   
-      * Eliminate rows containing missing values.
-      * Adjust the data type of specific values in designated columns.
-      * Exclude columns that are irrelevant to the current task.
+  * Eliminate rows containing missing values.
+  * Adjust the data type of specific values in designated columns.
+  * Exclude columns that are irrelevant to the current task.
   
 * Data modelling:
   
-      * Generate a consolidated dataset by merging three tables. The ultimate outcome will be a unified spreadsheet.
+  * Generate a consolidated dataset by merging three tables. The ultimate outcome will be a unified spreadsheet.
 
 # Task 3 -  Data Visualization & Storytelling
 
