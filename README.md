@@ -1,4 +1,4 @@
-![image](https://github.com/rakshithaelango/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/assets/116090323/956373d7-2d2a-4c81-b24f-f2b8eecc8651)# Accenture-Data-Analytics-and-Visualization-Virtual-Internship
+ Accenture-Data-Analytics-and-Visualization-Virtual-Internship
 
  * CERTIFICATE:
 [Accenture-Data-Analytics-and-Visualization-Virtual-Internship](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_zTRKYQuCprSMxiDjC_1702473090916_completion_certificate.pdf)
